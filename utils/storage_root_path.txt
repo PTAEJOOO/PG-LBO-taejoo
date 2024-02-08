@@ -1,1 +1,1 @@
-/data/taicai/LSO-storage
+~/LSO-storage/
